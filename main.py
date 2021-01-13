@@ -35,30 +35,6 @@ while is_race_on:
 
 
 
-# ping = Turtle(shape="turtle")
-# ping.color("blue")
-# ping.penup()
-# ping.goto(x=-230, y=-50)
-#
-# reed = Turtle(shape="turtle")
-# reed.color("green")
-# reed.penup()
-# reed.goto(x=-230, y=0)
-#
-# cam = Turtle(shape="turtle")
-# cam.color("purple")
-# cam.penup()
-# cam.goto(x=-230, y=50)
-#
-# jay = Turtle(shape="turtle")
-# jay.color("red")
-# jay.penup()
-# jay.goto(x=-230, y=100)
-#
-# fifi = Turtle(shape="turtle")
-# fifi.color("orange")
-# fifi.penup()
-# fifi.goto(x=-230, y=150)
 
 
 
